@@ -3,3 +3,5 @@
 ![Birinci Grafik](https://github.com/Fuatorium/Formula1-EDA/blob/main/graf1.PNG)
 ![İkinci Grafik](https://github.com/Fuatorium/Formula1-EDA/blob/main/graf2.PNG)
 ![Üçüncü Grafik](https://github.com/Fuatorium/Formula1-EDA/blob/main/graf3.PNG)
+
+En aşağıda dataframe'i algılamıyor. Bunu umursamayın tek sebebi Jupyter Notebook ve benim üşenmem. Sevgilerle.
